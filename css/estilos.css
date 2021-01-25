@@ -8,11 +8,11 @@
 h1 {
   position: relative;
   margin: 20px auto;
-  width: 600px;
-  height: 60px;
+  padding-top: 15px;
+  width: 70vw;
+  height: 12vh;
   text-align: center;
-  line-height: 60px;
-  background: blue;
+  background: rgb(143, 25, 158);
   color: white;
   font-weight: bold;
   border: 5px solid #ccc;
